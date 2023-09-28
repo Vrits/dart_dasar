@@ -1,4 +1,4 @@
-main() {
+void main() {
   // Kode : Tanpa Variable
   print('Nama saya Said');
 

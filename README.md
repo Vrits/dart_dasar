@@ -1,6 +1,6 @@
 # dart_dasar
 
-A new Flutter project.
+Tugas dasar Dart.
 
 ## Getting Started
 

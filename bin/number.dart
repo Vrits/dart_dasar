@@ -4,5 +4,10 @@ void main () {
 
   num angka2 = 123;
   num number2 = 123.2;
+
+  print(angka);
+  print(angka2);
+  print(number);
+  print(number2);
   
 }

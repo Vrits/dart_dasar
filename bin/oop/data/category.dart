@@ -3,4 +3,18 @@ class Category {
   String name = '';
 
   Category(this.id, this.name);
+
+  bool operator ==(Object e) {
+    if (e is Category) {
+      if (id != e.id) {
+        return false;
+      }
+      if (name != e.name) {
+        return false;
+      }
+      return true;
+    } else {
+      return false;
+    }
+  }
 }

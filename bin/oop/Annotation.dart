@@ -8,3 +8,7 @@ class AppLogic {
   @Todo("Later")
   void run() {}
 }
+
+void main () {
+  
+}

@@ -1,6 +1,6 @@
 # dart_dasar
 
-Tugas dasar Dart
+Tugas dasar Dart.
 
 ## Getting Started
 

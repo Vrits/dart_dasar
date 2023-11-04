@@ -6,4 +6,7 @@ void main() {
   print(numbers.any((e) => e > 8));
   print(numbers.every((e) => e == 2));
   print(numbers2.every((e) => e == 2));
+  print(numbers.contains(2));
+  print(numbers2.contains(2));
+  print(numbers.contains(7));
 }
